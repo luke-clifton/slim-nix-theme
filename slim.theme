@@ -1,0 +1,18 @@
+# slim-nix
+
+msg_color               #ffffff
+msg_font                Liberation Mono:size=16:dpi=75
+msg_x                   40%
+msg_y                   50%
+
+background_style        tile
+
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            32
+input_name_y            187
+input_font              Liberation Mono:size=12:dpi=75
+input_color             #2a2a2a
+
+username_shadow_xoffset 0
+username_shadow_yoffset 0
